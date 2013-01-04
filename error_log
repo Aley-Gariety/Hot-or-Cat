@@ -1,0 +1,353 @@
+[15-Aug-2012 04:45:55] PHP Fatal error:  Function name must be a string in /home/jacksong/public_html/hotorcat.com/index.php on line 27
+[15-Aug-2012 04:45:55] PHP Fatal error:  Function name must be a string in /home/jacksong/public_html/hotorcat.com/index.php on line 27
+[15-Aug-2012 04:45:56] PHP Fatal error:  Function name must be a string in /home/jacksong/public_html/hotorcat.com/index.php on line 27
+[15-Aug-2012 04:45:58] PHP Fatal error:  Function name must be a string in /home/jacksong/public_html/hotorcat.com/index.php on line 27
+[15-Aug-2012 04:45:58] PHP Fatal error:  Function name must be a string in /home/jacksong/public_html/hotorcat.com/index.php on line 27
+[15-Aug-2012 04:45:58] PHP Fatal error:  Function name must be a string in /home/jacksong/public_html/hotorcat.com/index.php on line 27
+[15-Aug-2012 04:54:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 4
+[15-Aug-2012 04:54:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 4
+[15-Aug-2012 04:54:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 4
+[15-Aug-2012 04:55:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 4
+[15-Aug-2012 04:55:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 4
+[15-Aug-2012 04:55:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 4
+[15-Aug-2012 04:55:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 4
+[15-Aug-2012 04:55:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 4
+[15-Aug-2012 04:55:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 4
+[15-Aug-2012 05:04:20] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 3
+[15-Aug-2012 05:04:21] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 3
+[15-Aug-2012 05:04:21] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 3
+[15-Aug-2012 05:04:21] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 3
+[15-Aug-2012 05:04:23] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 3
+[15-Aug-2012 05:04:23] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 3
+[15-Aug-2012 05:04:27] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 3
+[15-Aug-2012 05:04:27] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 3
+[15-Aug-2012 05:04:46] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 3
+[15-Aug-2012 05:04:47] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 3
+[15-Aug-2012 05:04:47] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 3
+[15-Aug-2012 05:04:48] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 3
+[15-Aug-2012 05:04:48] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 3
+[15-Aug-2012 05:04:48] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 3
+[15-Aug-2012 05:05:20] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[15-Aug-2012 05:27:09] PHP Parse error:  syntax error, unexpected T_INCLUDE, expecting ',' or ';' in /home/jacksong/public_html/hotorcat.com/index.php on line 3
+[15-Aug-2012 05:28:21] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/jacksong/public_html/hotorcat.com/index.php on line 4
+[15-Aug-2012 05:28:24] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/jacksong/public_html/hotorcat.com/index.php on line 5
+[15-Aug-2012 05:28:24] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/jacksong/public_html/hotorcat.com/index.php on line 5
+[15-Aug-2012 05:30:35] PHP Parse error:  syntax error, unexpected '}' in /home/jacksong/public_html/hotorcat.com/index.php on line 11
+[15-Aug-2012 05:30:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 05:32:39] PHP Parse error:  syntax error, unexpected '}' in /home/jacksong/public_html/hotorcat.com/index.php on line 34
+[15-Aug-2012 05:35:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 05:35:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 05:35:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 05:35:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 05:35:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 05:36:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 07:06:04] PHP Warning:  include(nav.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jacksong/public_html/hotorcat.com/index.php on line 26
+[15-Aug-2012 07:06:04] PHP Warning:  include(nav.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jacksong/public_html/hotorcat.com/index.php on line 26
+[15-Aug-2012 07:06:04] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jacksong/public_html/hotorcat.com/index.php on line 26
+[15-Aug-2012 07:06:05] PHP Warning:  include(nav.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jacksong/public_html/hotorcat.com/index.php on line 26
+[15-Aug-2012 07:06:05] PHP Warning:  include(nav.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jacksong/public_html/hotorcat.com/index.php on line 26
+[15-Aug-2012 07:06:05] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jacksong/public_html/hotorcat.com/index.php on line 26
+[15-Aug-2012 07:06:08] PHP Warning:  include(nav.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jacksong/public_html/hotorcat.com/index.php on line 26
+[15-Aug-2012 07:06:08] PHP Warning:  include(nav.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jacksong/public_html/hotorcat.com/index.php on line 26
+[15-Aug-2012 07:06:08] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jacksong/public_html/hotorcat.com/index.php on line 26
+[15-Aug-2012 07:06:08] PHP Warning:  include(nav.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jacksong/public_html/hotorcat.com/index.php on line 26
+[15-Aug-2012 07:06:08] PHP Warning:  include(nav.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/jacksong/public_html/hotorcat.com/index.php on line 26
+[15-Aug-2012 07:06:08] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jacksong/public_html/hotorcat.com/index.php on line 26
+[15-Aug-2012 07:24:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 07:24:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 07:24:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 07:32:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 07:32:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 07:32:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 07:32:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 07:32:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:04:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:07:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:07:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:14:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:14:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:14:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:14:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:14:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:14:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:14:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:17:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:17:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:24:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:24:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:24:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:25:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:25:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:25:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:25:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:25:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:27:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:29:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:29:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:33:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:34:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:34:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:34:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:34:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:34:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:34:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:34:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:34:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:34:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:34:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:34:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:34:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 08:34:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 6
+[15-Aug-2012 18:22:35] PHP Parse error:  syntax error, unexpected '{' in /home/jacksong/public_html/hotorcat.com/vote.php on line 17
+[15-Aug-2012 18:25:45] PHP Parse error:  syntax error, unexpected '{' in /home/jacksong/public_html/hotorcat.com/vote.php on line 17
+[15-Aug-2012 21:21:16] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jacksong/public_html/hotorcat.com/vote.php on line 27
+[15-Aug-2012 21:22:41] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jacksong/public_html/hotorcat.com/vote.php on line 27
+[15-Aug-2012 21:22:41] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jacksong/public_html/hotorcat.com/vote.php on line 27
+[15-Aug-2012 21:34:48] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jacksong/public_html/hotorcat.com/vote.php on line 27
+[16-Aug-2012 18:43:02] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/jacksong/public_html/hotorcat.com/vote.php on line 16
+[16-Aug-2012 19:07:08] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jacksong/public_html/hotorcat.com/index.php on line 8
+[16-Aug-2012 19:07:25] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jacksong/public_html/hotorcat.com/index.php on line 12
+[16-Aug-2012 19:08:33] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/jacksong/public_html/hotorcat.com/index.php on line 10
+[16-Aug-2012 19:09:26] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jacksong/public_html/hotorcat.com/index.php on line 9
+[16-Aug-2012 19:13:29] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jacksong/public_html/hotorcat.com/index.php on line 8
+[16-Aug-2012 19:13:30] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jacksong/public_html/hotorcat.com/index.php on line 8
+[16-Aug-2012 19:21:31] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jacksong/public_html/hotorcat.com/index.php on line 11
+[16-Aug-2012 19:36:13] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jacksong/public_html/hotorcat.com/index.php on line 28
+[16-Aug-2012 19:36:18] PHP Warning:  Division by zero in /home/jacksong/public_html/hotorcat.com/index.php on line 26
+[16-Aug-2012 19:36:18] PHP Warning:  Division by zero in /home/jacksong/public_html/hotorcat.com/index.php on line 26
+[16-Aug-2012 19:36:18] PHP Warning:  Division by zero in /home/jacksong/public_html/hotorcat.com/index.php on line 26
+[16-Aug-2012 19:36:18] PHP Warning:  Division by zero in /home/jacksong/public_html/hotorcat.com/index.php on line 26
+[16-Aug-2012 19:42:14] PHP Parse error:  syntax error, unexpected '}' in /home/jacksong/public_html/hotorcat.com/index.php on line 22
+[16-Aug-2012 19:44:22] PHP Parse error:  syntax error, unexpected T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 4
+[16-Aug-2012 19:44:30] PHP Parse error:  syntax error, unexpected T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 4
+[16-Aug-2012 19:44:43] PHP Parse error:  syntax error, unexpected T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 4
+[16-Aug-2012 19:44:57] PHP Parse error:  syntax error, unexpected T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 4
+[16-Aug-2012 19:45:11] PHP Parse error:  syntax error, unexpected T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 4
+[16-Aug-2012 19:45:27] PHP Parse error:  syntax error, unexpected T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 4
+[16-Aug-2012 19:45:40] PHP Parse error:  syntax error, unexpected T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 3
+[16-Aug-2012 19:46:05] PHP Parse error:  syntax error, unexpected T_STRING in /home/jacksong/public_html/hotorcat.com/index.php on line 3
+[16-Aug-2012 20:28:00] PHP Parse error:  syntax error, unexpected '}' in /home/jacksong/public_html/hotorcat.com/index.php on line 21
+[16-Aug-2012 21:35:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[16-Aug-2012 21:35:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[16-Aug-2012 21:35:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[16-Aug-2012 21:35:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[16-Aug-2012 21:35:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[16-Aug-2012 21:35:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[16-Aug-2012 21:35:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[16-Aug-2012 21:35:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[16-Aug-2012 21:35:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[16-Aug-2012 22:56:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[16-Aug-2012 22:56:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[16-Aug-2012 22:56:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[16-Aug-2012 23:18:27] PHP Fatal error:  Call to undefined function  showvotes() in /home/jacksong/public_html/hotorcat.com/index.php on line 50
+[16-Aug-2012 23:18:28] PHP Fatal error:  Call to undefined function  showvotes() in /home/jacksong/public_html/hotorcat.com/index.php on line 50
+[16-Aug-2012 23:18:28] PHP Fatal error:  Call to undefined function  showvotes() in /home/jacksong/public_html/hotorcat.com/index.php on line 50
+[16-Aug-2012 23:18:29] PHP Fatal error:  Call to undefined function  showvotes() in /home/jacksong/public_html/hotorcat.com/index.php on line 50
+[16-Aug-2012 23:18:29] PHP Fatal error:  Call to undefined function  showvotes() in /home/jacksong/public_html/hotorcat.com/index.php on line 50
+[16-Aug-2012 23:18:30] PHP Fatal error:  Call to undefined function  showvotes() in /home/jacksong/public_html/hotorcat.com/index.php on line 50
+[16-Aug-2012 23:18:31] PHP Fatal error:  Call to undefined function  showvotes() in /home/jacksong/public_html/hotorcat.com/index.php on line 50
+[16-Aug-2012 23:18:32] PHP Fatal error:  Call to undefined function  showvotes() in /home/jacksong/public_html/hotorcat.com/index.php on line 50
+[16-Aug-2012 23:18:33] PHP Fatal error:  Call to undefined function  showvotes() in /home/jacksong/public_html/hotorcat.com/index.php on line 50
+[16-Aug-2012 23:29:08] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/jacksong/public_html/hotorcat.com/test.php on line 5
+[16-Aug-2012 23:29:09] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/jacksong/public_html/hotorcat.com/test.php on line 5
+[16-Aug-2012 23:30:10] PHP Parse error:  syntax error, unexpected '}' in /home/jacksong/public_html/hotorcat.com/test.php on line 7
+[16-Aug-2012 23:33:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/test.php on line 5
+[16-Aug-2012 23:33:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/test.php on line 5
+[16-Aug-2012 23:33:41] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/jacksong/public_html/hotorcat.com/test.php on line 7
+[16-Aug-2012 23:34:49] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jacksong/public_html/hotorcat.com/test.php on line 5
+[16-Aug-2012 23:34:53] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jacksong/public_html/hotorcat.com/test.php on line 5
+[16-Aug-2012 23:34:55] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jacksong/public_html/hotorcat.com/test.php on line 5
+[17-Aug-2012 07:32:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[17-Aug-2012 07:32:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[17-Aug-2012 07:32:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[17-Aug-2012 07:32:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[17-Aug-2012 07:33:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[17-Aug-2012 07:33:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[17-Aug-2012 07:33:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[17-Aug-2012 07:33:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[17-Aug-2012 10:09:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[17-Aug-2012 10:09:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[17-Aug-2012 10:09:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[17-Aug-2012 10:09:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[17-Aug-2012 10:09:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[17-Aug-2012 10:09:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[17-Aug-2012 10:09:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[17-Aug-2012 10:09:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[17-Aug-2012 10:09:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[17-Aug-2012 10:09:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[17-Aug-2012 10:09:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[17-Aug-2012 10:09:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[17-Aug-2012 18:42:43] PHP Parse error:  syntax error, unexpected '<' in /home/jacksong/public_html/hotorcat.com/index.php on line 91
+[17-Aug-2012 18:42:44] PHP Parse error:  syntax error, unexpected '<' in /home/jacksong/public_html/hotorcat.com/index.php on line 91
+[17-Aug-2012 18:42:48] PHP Parse error:  syntax error, unexpected '<' in /home/jacksong/public_html/hotorcat.com/index.php on line 91
+[17-Aug-2012 18:42:48] PHP Parse error:  syntax error, unexpected '<' in /home/jacksong/public_html/hotorcat.com/index.php on line 91
+[17-Aug-2012 18:42:49] PHP Parse error:  syntax error, unexpected '<' in /home/jacksong/public_html/hotorcat.com/index.php on line 91
+[17-Aug-2012 18:42:50] PHP Parse error:  syntax error, unexpected '<' in /home/jacksong/public_html/hotorcat.com/index.php on line 91
+[17-Aug-2012 18:42:51] PHP Parse error:  syntax error, unexpected '<' in /home/jacksong/public_html/hotorcat.com/index.php on line 91
+[17-Aug-2012 18:42:52] PHP Parse error:  syntax error, unexpected '<' in /home/jacksong/public_html/hotorcat.com/index.php on line 91
+[17-Aug-2012 18:42:55] PHP Parse error:  syntax error, unexpected '<' in /home/jacksong/public_html/hotorcat.com/index.php on line 91
+[17-Aug-2012 18:42:55] PHP Parse error:  syntax error, unexpected '<' in /home/jacksong/public_html/hotorcat.com/index.php on line 91
+[17-Aug-2012 18:42:57] PHP Parse error:  syntax error, unexpected '<' in /home/jacksong/public_html/hotorcat.com/index.php on line 94
+[17-Aug-2012 18:42:58] PHP Parse error:  syntax error, unexpected '<' in /home/jacksong/public_html/hotorcat.com/index.php on line 94
+[17-Aug-2012 18:43:01] PHP Parse error:  syntax error, unexpected '<' in /home/jacksong/public_html/hotorcat.com/index.php on line 91
+[17-Aug-2012 18:43:04] PHP Parse error:  syntax error, unexpected '<' in /home/jacksong/public_html/hotorcat.com/index.php on line 75
+[17-Aug-2012 18:43:04] PHP Parse error:  syntax error, unexpected '<' in /home/jacksong/public_html/hotorcat.com/index.php on line 75
+[17-Aug-2012 18:43:05] PHP Parse error:  syntax error, unexpected '<' in /home/jacksong/public_html/hotorcat.com/index.php on line 75
+[17-Aug-2012 18:43:08] PHP Parse error:  syntax error, unexpected '<' in /home/jacksong/public_html/hotorcat.com/index.php on line 87
+[17-Aug-2012 18:43:10] PHP Parse error:  syntax error, unexpected '<' in /home/jacksong/public_html/hotorcat.com/index.php on line 87
+[20-Aug-2012 04:29:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[20-Aug-2012 04:29:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[20-Aug-2012 04:29:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[20-Aug-2012 04:29:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[20-Aug-2012 04:29:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[20-Aug-2012 04:29:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[20-Aug-2012 04:55:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[20-Aug-2012 04:55:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[20-Aug-2012 04:55:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[20-Aug-2012 04:55:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[20-Aug-2012 04:55:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[20-Aug-2012 04:55:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[20-Aug-2012 04:55:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[20-Aug-2012 04:55:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[20-Aug-2012 04:55:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[21-Aug-2012 22:12:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[21-Aug-2012 22:12:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[21-Aug-2012 22:12:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[21-Aug-2012 22:12:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[21-Aug-2012 22:12:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[21-Aug-2012 22:12:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[21-Aug-2012 22:12:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[21-Aug-2012 22:12:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[21-Aug-2012 22:12:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[22-Aug-2012 00:12:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[22-Aug-2012 00:12:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[22-Aug-2012 00:12:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[04-Sep-2012 09:39:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[04-Sep-2012 09:39:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[04-Sep-2012 09:39:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[04-Sep-2012 09:39:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[04-Sep-2012 09:39:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[04-Sep-2012 09:39:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[04-Sep-2012 09:39:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[04-Sep-2012 09:39:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[04-Sep-2012 09:39:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[04-Sep-2012 09:39:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[04-Sep-2012 09:39:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[04-Sep-2012 09:39:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[04-Sep-2012 09:39:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[04-Sep-2012 09:39:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[04-Sep-2012 09:39:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[04-Sep-2012 09:39:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[04-Sep-2012 09:39:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[04-Sep-2012 09:39:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[04-Sep-2012 09:39:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[04-Sep-2012 09:39:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[04-Sep-2012 09:39:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[04-Sep-2012 09:39:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[04-Sep-2012 09:39:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[04-Sep-2012 09:39:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[04-Sep-2012 09:39:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[04-Sep-2012 09:39:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[04-Sep-2012 09:39:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[04-Sep-2012 09:39:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[04-Sep-2012 09:39:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[04-Sep-2012 09:39:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[04-Sep-2012 09:39:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[04-Sep-2012 09:39:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[04-Sep-2012 09:39:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[04-Sep-2012 09:39:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[04-Sep-2012 09:39:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[04-Sep-2012 09:39:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[04-Sep-2012 09:39:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[04-Sep-2012 09:39:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[04-Sep-2012 09:39:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[04-Sep-2012 09:39:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[04-Sep-2012 09:39:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[04-Sep-2012 09:39:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[04-Sep-2012 09:39:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[04-Sep-2012 09:39:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[04-Sep-2012 09:39:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[04-Sep-2012 09:39:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[04-Sep-2012 09:39:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[04-Sep-2012 09:39:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[05-Sep-2012 18:36:48] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jacksong/public_html/hotorcat.com/connection.php on line 2
+[05-Sep-2012 18:36:48] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jacksong/public_html/hotorcat.com/connection.php on line 2
+[05-Sep-2012 18:36:48] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jacksong/public_html/hotorcat.com/connection.php on line 2
+[05-Sep-2012 18:36:55] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jacksong/public_html/hotorcat.com/connection.php on line 2
+[05-Sep-2012 18:37:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jacksong/public_html/hotorcat.com/connection.php on line 2
+[05-Sep-2012 18:37:18] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jacksong/public_html/hotorcat.com/connection.php on line 2
+[05-Sep-2012 18:37:26] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jacksong/public_html/hotorcat.com/connection.php on line 2
+[05-Sep-2012 18:37:27] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jacksong/public_html/hotorcat.com/connection.php on line 2
+[05-Sep-2012 18:37:27] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jacksong/public_html/hotorcat.com/connection.php on line 2
+[05-Sep-2012 18:37:28] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jacksong/public_html/hotorcat.com/connection.php on line 2
+[05-Sep-2012 18:37:30] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jacksong/public_html/hotorcat.com/connection.php on line 2
+[05-Sep-2012 18:37:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jacksong/public_html/hotorcat.com/connection.php on line 2
+[05-Sep-2012 18:37:36] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jacksong/public_html/hotorcat.com/connection.php on line 2
+[05-Sep-2012 18:37:37] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/jacksong/public_html/hotorcat.com/connection.php on line 2
+[24-Sep-2012 08:37:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[24-Sep-2012 08:37:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[24-Sep-2012 08:37:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[24-Sep-2012 08:37:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[24-Sep-2012 08:37:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[24-Sep-2012 08:37:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[24-Sep-2012 08:37:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[24-Sep-2012 08:37:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[24-Sep-2012 08:37:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[24-Sep-2012 08:37:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[24-Sep-2012 08:37:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[24-Sep-2012 08:37:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[24-Sep-2012 08:37:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[24-Sep-2012 08:37:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[24-Sep-2012 08:37:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[20-Oct-2012 04:44:37] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jacksong/public_html/hotorcat.com/reddit.php on line 4
+[20-Oct-2012 04:44:38] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jacksong/public_html/hotorcat.com/reddit.php on line 4
+[20-Oct-2012 04:44:44] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jacksong/public_html/hotorcat.com/reddit.php on line 6
+[20-Oct-2012 04:44:45] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jacksong/public_html/hotorcat.com/reddit.php on line 6
+[20-Oct-2012 06:10:40] PHP Parse error:  syntax error, unexpected ')' in /home/jacksong/public_html/hotorcat.com/index.php on line 20
+[20-Oct-2012 06:10:41] PHP Parse error:  syntax error, unexpected ')' in /home/jacksong/public_html/hotorcat.com/index.php on line 20
+[20-Oct-2012 06:10:42] PHP Parse error:  syntax error, unexpected ')' in /home/jacksong/public_html/hotorcat.com/index.php on line 20
+[20-Oct-2012 06:10:42] PHP Parse error:  syntax error, unexpected ')' in /home/jacksong/public_html/hotorcat.com/index.php on line 20
+[20-Oct-2012 06:10:50] PHP Parse error:  syntax error, unexpected ')' in /home/jacksong/public_html/hotorcat.com/index.php on line 24
+[20-Oct-2012 06:10:50] PHP Parse error:  syntax error, unexpected ')' in /home/jacksong/public_html/hotorcat.com/index.php on line 24
+[20-Oct-2012 06:10:51] PHP Parse error:  syntax error, unexpected ')' in /home/jacksong/public_html/hotorcat.com/index.php on line 24
+[20-Oct-2012 06:10:52] PHP Parse error:  syntax error, unexpected ')' in /home/jacksong/public_html/hotorcat.com/index.php on line 24
+[20-Oct-2012 06:10:52] PHP Parse error:  syntax error, unexpected ')' in /home/jacksong/public_html/hotorcat.com/index.php on line 24
+[20-Oct-2012 06:10:52] PHP Parse error:  syntax error, unexpected ')' in /home/jacksong/public_html/hotorcat.com/index.php on line 24
+[20-Oct-2012 06:10:53] PHP Parse error:  syntax error, unexpected ')' in /home/jacksong/public_html/hotorcat.com/index.php on line 24
+[20-Oct-2012 06:10:53] PHP Parse error:  syntax error, unexpected ')' in /home/jacksong/public_html/hotorcat.com/index.php on line 24
+[20-Oct-2012 06:10:53] PHP Parse error:  syntax error, unexpected ')' in /home/jacksong/public_html/hotorcat.com/index.php on line 24
+[20-Oct-2012 06:10:53] PHP Parse error:  syntax error, unexpected ')' in /home/jacksong/public_html/hotorcat.com/index.php on line 24
+[20-Oct-2012 06:19:01] PHP Warning:  Division by zero in /home/jacksong/public_html/hotorcat.com/index.php on line 25
+[20-Oct-2012 06:24:49] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jacksong/public_html/hotorcat.com/index.php on line 33
+[20-Oct-2012 06:24:49] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jacksong/public_html/hotorcat.com/index.php on line 33
+[20-Oct-2012 06:24:50] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jacksong/public_html/hotorcat.com/index.php on line 33
+[20-Oct-2012 06:24:50] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jacksong/public_html/hotorcat.com/index.php on line 33
+[20-Oct-2012 06:51:00] PHP Parse error:  syntax error, unexpected '.' in /home/jacksong/public_html/hotorcat.com/index.php on line 21
+[20-Oct-2012 06:51:01] PHP Parse error:  syntax error, unexpected '.' in /home/jacksong/public_html/hotorcat.com/index.php on line 21
+[20-Oct-2012 06:51:02] PHP Parse error:  syntax error, unexpected '.' in /home/jacksong/public_html/hotorcat.com/index.php on line 21
+[20-Oct-2012 06:51:02] PHP Parse error:  syntax error, unexpected '.' in /home/jacksong/public_html/hotorcat.com/index.php on line 21
+[20-Oct-2012 06:52:19] PHP Parse error:  syntax error, unexpected '.' in /home/jacksong/public_html/hotorcat.com/index.php on line 21
+[20-Oct-2012 06:52:20] PHP Parse error:  syntax error, unexpected '.' in /home/jacksong/public_html/hotorcat.com/index.php on line 21
+[20-Oct-2012 06:52:22] PHP Parse error:  syntax error, unexpected '.' in /home/jacksong/public_html/hotorcat.com/index.php on line 21
+[20-Oct-2012 06:52:23] PHP Parse error:  syntax error, unexpected '.' in /home/jacksong/public_html/hotorcat.com/index.php on line 21
+[09-Nov-2012 04:10:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[09-Nov-2012 04:10:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[09-Nov-2012 04:10:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[09-Nov-2012 04:28:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[09-Nov-2012 04:28:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[09-Nov-2012 04:28:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[09-Nov-2012 05:35:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[09-Nov-2012 05:35:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[09-Nov-2012 05:35:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[09-Nov-2012 20:10:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[09-Nov-2012 20:10:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[09-Nov-2012 20:10:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[10-Nov-2012 15:30:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[10-Nov-2012 15:30:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[10-Nov-2012 15:30:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[12-Nov-2012 02:18:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[12-Nov-2012 02:18:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[12-Nov-2012 02:18:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
+[13-Nov-2012 00:22:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 7
+[13-Nov-2012 00:22:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 13
+[13-Nov-2012 00:22:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hotorcat.com/index.php on line 16
